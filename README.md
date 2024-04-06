@@ -1,35 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mohammed Amine</h1>
-<h3 align="center">New Arrival to the coding world 👨‍💻</h3>
+<h2 align="left">Hi 👋, I'm Mohammed Amine</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dolipranexd&label=Profile%20views&color=0e75b6&style=flat" alt="dolipranexd" /> </p>
-<a href="https://github.com/oakoudad/badge42"><img align= "right" src="https://badge.mediaplus.ma/greenbinary/moel-fat" alt="moel-fat's 42 stats" /></a>
+###
 
-- 🔭 I’m currently working on **42 Cursus**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DolipraneXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DolipraneXD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **C language**
+###
 
-- 🤝 I’m looking for help with **C language**
+<img align="right" height="150" src="https://64.media.tumblr.com/de47954680ff944e2c2cdc87f7bfcec9/936f90bcc0b134b3-aa/s400x600/19e49de7480a02a8792b4c03df38885794ccfb15.gifv"  />
 
-- 👨‍💻 All of my projects are available at [This Github](This Github)
+###
 
-- 💬 Ask me about **Gaming XD**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+</div>
 
-- 📫 How to reach me **linkedin**
+###
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 🐛✨**
+<div align="left">
+  <a href="https://www.instagram.com/med.amine.fatihi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/el-fathi-mohammed-amine-08b1892a3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/el fathi mohammed amine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el fathi mohammed amine" height="30" width="40" /></a>
-<a href="https://instagram.com/med.amine.fatihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med.amine.fatihi" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolipranexd&show_icons=true&locale=en&layout=compact" alt="dolipranexd" /></p>
+<img src="https://raw.githubusercontent.com/DolipraneXD/DolipraneXD/output/snake.svg" alt="Snake animation" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dolipranexd&show_icons=true&locale=en" alt="dolipranexd" /></p>
+###
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dolipranexd&" alt="dolipranexd" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DolipraneXD/count.svg?"  />
+</div>
 
+###
