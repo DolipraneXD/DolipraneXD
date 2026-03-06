@@ -1,10 +1,12 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║         mohammed amine el fathi — full-stack dev     ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <samp>
+    ╔══════════════════════════════════════════════════════════╗<br>
+    ║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mohammed amine el fathi — full-stack dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║<br>
+    ╚══════════════════════════════════════════════════════════╝
+  </samp>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Node.js;Real-time+systems+%26+WebSockets;Building+things+that+feel+alive;UI+%E2%86%92+API+%E2%86%92+Deployment)](https://git.io/typing-svg)
 
