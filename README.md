@@ -16,6 +16,10 @@ I build clean, fast web apps with a strong focus on UX, real-time systems, and m
 
 ## Tech Stack
 
+<table>
+  <tr>
+    <td valign="top" width="20%">
+
 ### Frontend
 - React
 - TypeScript
@@ -23,6 +27,8 @@ I build clean, fast web apps with a strong focus on UX, real-time systems, and m
 - Tailwind CSS
 - Accessibility
 - Canvas
+  </td>
+  <td valign="top" width="20%">
 
 ### Backend
 - Node.js
@@ -32,13 +38,17 @@ I build clean, fast web apps with a strong focus on UX, real-time systems, and m
 - Socket.IO
 - Zod
 
+  </td>
+  <td valign="top" width="20%">
+
 ### DevOps / Tools
 - Docker
 - Docker Compose
 - Nginx
 - Linux
 - CI basics
-
+  </td>
+  <td valign="top" width="20%">
 ### Other
 - C
 - C++
@@ -46,9 +56,9 @@ I build clean, fast web apps with a strong focus on UX, real-time systems, and m
 - Threads / Mutexes / Semaphores
 - CGI
 - HTTP/1.1
-
----
-
+- </td>
+  </tr>
+</table>
 ## Experience
 
 ### Operations Assistant — Airport
