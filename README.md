@@ -80,19 +80,21 @@
 
 ## `git log --experience`
 
-```
-commit 2023  1337 / 42 Network — Common Core
-             ├── Systems programming & algorithms
-             ├── POSIX, threads, semaphores, mutexes
-             ├── Web dev & peer-driven learning
-             └── Ongoing — expected 2026
+## <code>git log --experience</code>
 
-commit 2019  Professional License — Web & Mobile Engineering
-
-commit 2018  Operations Assistant @ Airport, Darwa
-             └── High-pressure environments, strict procedures,
-                 cross-team workflows — 4 years
-```
+<samp>
+commit 2023&nbsp;&nbsp;1337 / 42 Network — Common Core<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Systems programming &amp; algorithms<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── POSIX, threads, semaphores, mutexes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Web dev &amp; peer-driven learning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Ongoing — expected 2026<br>
+<br>
+commit 2019&nbsp;&nbsp;Professional License — Web &amp; Mobile Engineering<br>
+<br>
+commit 2018&nbsp;&nbsp;Operations Assistant @ Airport, Darwa<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── High-pressure environments, strict procedures,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cross-team workflows — 4 years
+</samp>
 
 ---
 
