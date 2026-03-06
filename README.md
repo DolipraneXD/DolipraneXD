@@ -18,15 +18,10 @@
 
 ### `whoami`
 
-```ts
-const amine = {
-  location: "Morocco 🇲🇦",
-  focus:    ["TypeScript", "React", "Node.js"],
-  loves:    ["real-time apps", "terminal UIs", "game-dev interactions"],
-  building: "clean, fast, alive web experiences",
-  pipeline: "UI → API → Deployment",
-};
-```
+📍 Morocco &nbsp;|&nbsp; Full-Stack Developer  
+🔧 TypeScript · React · Node.js  
+💡 Real-time apps · Terminal UIs · Game-dev interactions  
+🚀 `UI → API → Deployment`
 
 > *I like projects that feel smooth, responsive, and alive.*
 
@@ -101,12 +96,10 @@ commit 2018  Operations Assistant @ Airport, Darwa
 
 ## `cat current_focus.md`
 
-```
-▸ Shipping polished full-stack applications
+▸ Shipping polished full-stack applications  
 ▸ Leveling up UI/UX quality and frontend architecture  
-▸ Exploring real-time systems and interactive experiences
-▸ Building things with that alive, responsive feel
-```
+▸ Exploring real-time systems and interactive experiences  
+▸ Building things with that alive, responsive feel  
 
 ---
 
