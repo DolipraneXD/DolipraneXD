@@ -80,8 +80,6 @@
 
 ---
 
-## `git log --experience`
-
 ## <code>git log --experience</code>
 
 <samp>
