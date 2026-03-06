@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="340" src="https://avatars.githubusercontent.com/u/149811816?v=4" />
+<img align="right" width="340" src="https://i.pinimg.com/originals/c8/95/42/c895428e1ad6d7c2a768a063506bcc7c.gif" />
 
 ### `whoami`
 
