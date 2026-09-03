@@ -4,7 +4,7 @@
   <h2>
   <samp>
     ╔══════════════════════════════════════════════════════════╗<br>
-    ║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mohammed amine el fathi — Devops / full-stack dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║<br>
+    ║&nbsp;&nbsp;&nbsp;&nbsp;mohammed amine el fathi — Devops / full-stack dev&nbsp;&nbsp;&nbsp;&nbsp;║<br>
     ╚══════════════════════════════════════════════════════════╝
   </samp>
   </h2>
