@@ -4,7 +4,7 @@
   <h2>
   <samp>
     ╔══════════════════════════════════════════════════════════╗<br>
-    ║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mohammed amine el fathi — full-stack dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║<br>
+    ║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mohammed amine el fathi — Devops / full-stack dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║<br>
     ╚══════════════════════════════════════════════════════════╝
   </samp>
   </h2>
@@ -22,7 +22,7 @@
 
 ### `whoami`
 
-📍 Morocco &nbsp;|&nbsp; Full-Stack Developer  
+📍 Morocco &nbsp;|&nbsp; devops engineer - Full-Stack Developer  
 🔧 TypeScript · React · Node.js  
 💡 Real-time apps · Terminal UIs · Game-dev interactions  
 🚀 `UI → API → Deployment`
