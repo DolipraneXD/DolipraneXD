@@ -162,7 +162,7 @@ commit 2018&nbsp;&nbsp;Operations Assistant @ Airport, Darwa<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DolipraneXD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DolipraneXD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Amine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfathimohammedamine/)
-[![Email](https://img.shields.io/badge/Email-elfathimohammedamine-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfathimohammedamine@email.com)
+[![Email](https://img.shields.io/badge/Email-elfathimohammedamine-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfathimohammedamine@gmail.com)
 
 <br/>
 
