@@ -1,16 +1,14 @@
 <div align="center">
 
-<div align="center">
   <h2>
   <samp>
-    ╔══════════════════════════════════════════════════════════╗<br>
-    ║&nbsp;&nbsp;&nbsp;&nbsp;mohammed amine el fathi — Devops / full-stack dev&nbsp;&nbsp;&nbsp;&nbsp;║<br>
-    ╚══════════════════════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════════╗<br>
+    ║&nbsp;&nbsp;&nbsp;&nbsp;mohammed amine el fathi — DevOps engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║<br>
+    ╚══════════════════════════════════════════════════════╝
   </samp>
   </h2>
-</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Node.js;Real-time+systems+%26+WebSockets;Building+things+that+feel+alive;UI+%E2%86%92+API+%E2%86%92+Deployment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=commit+%E2%86%92+build+%E2%86%92+test+%E2%86%92+ship+%E2%86%92+observe;Docker+%7C+Kubernetes+%7C+CI%2FCD;Prometheus+%2B+Grafana+%E2%86%92+no+silent+failures;Automate+the+boring+parts)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=DolipraneXD&style=flat-square&color=00FFB2&label=PROFILE+VIEWS" alt="profile views" />
 
@@ -22,14 +20,27 @@
 
 ### `whoami`
 
-📍 Morocco &nbsp;|&nbsp; devops engineer - Full-Stack Developer  
-🔧 TypeScript · React · Node.js  
-💡 Real-time apps · Terminal UIs · Game-dev interactions  
-🚀 `UI → API → Deployment`
+📍 Morocco &nbsp;|&nbsp; DevOps Engineer  
+⚙️ CI/CD · Containers · Kubernetes · Monitoring  
+☁️ Cloud architecture · Linux · Infrastructure automation  
+🧩 Full-stack background: I know what the pipeline is shipping
 
-> *I like projects that feel smooth, responsive, and alive.*
+> *If it's done twice, it gets scripted. If it runs in prod, it gets a dashboard.*
 
 <br clear="right"/>
+
+---
+
+## `cat pipeline.yml`
+
+```text
+ ┌────────┐   ┌─────────┐   ┌────────┐   ┌──────────┐   ┌──────────┐   ┌──────────┐
+ │  git   │──▶│  build  │──▶│  test  │──▶│ artifact │──▶│  deploy  │──▶│ observe  │
+ │  push  │   │ docker  │   │ + scan │   │  nexus   │   │   k8s    │   │ grafana  │
+ └────────┘   └─────────┘   └────────┘   └──────────┘   └──────────┘   └──────────┘
+      ▲                                                                      │
+      └──────────────────────────── feedback ────────────────────────────────┘
+```
 
 ---
 
@@ -39,34 +50,52 @@
 <tr>
 <td valign="top">
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Canvas](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white)
+**CI/CD**  
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
 
 </td>
 <td valign="top">
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-
-</td>
-<td valign="top">
-
-**DevOps**  
+**Containers**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![kind](https://img.shields.io/badge/kind-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI_basics-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 <td valign="top">
+
+**Cloud & Infra**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Observability**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+**Dev background**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td valign="top" colspan="2">
 
 **Systems**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -80,30 +109,50 @@
 
 ---
 
+## `kubectl get skills`
+
+```text
+NAME              STATUS    FOCUS
+ci-cd             Running   pipelines as code, quality gates, artifact repos
+containers        Running   Docker images, Compose, multi-stage builds
+kubernetes        Running   deployments, services, local clusters with kind
+observability     Running   Prometheus metrics, Grafana dashboards, alerting
+cloud             Running   AWS edge → API → serverless, Azure DevOps
+linux             Running   bash, networking, port forwarding, VMs
+ai-infra          Pending   self-hosted LLMs, KV caching, benchmarks
+```
+
+---
+
 ## <code>git log --experience</code>
 
 <samp>
+commit 2026&nbsp;&nbsp;DevOps Engineer<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── CI/CD pipelines &amp; code quality gates<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Containers, Kubernetes &amp; artifact management<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Monitoring with Prometheus &amp; Grafana<br>
+<br>
 commit 2023&nbsp;&nbsp;1337 / 42 Network — Common Core<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Systems programming &amp; algorithms<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── POSIX, threads, semaphores, mutexes<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Web dev &amp; peer-driven learning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Docker, Nginx, web servers &amp; full-stack projects<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Ongoing — expected 2026<br>
 <br>
 commit 2019&nbsp;&nbsp;Professional License — Web &amp; Mobile Engineering<br>
 <br>
 commit 2018&nbsp;&nbsp;Operations Assistant @ Airport, Darwa<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── High-pressure environments, strict procedures,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cross-team workflows — 4 years
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cross-team workflows — 4 years (ops before it was DevOps)
 </samp>
 
 ---
 
 ## `cat current_focus.md`
 
-▸ Shipping polished full-stack applications  
-▸ Leveling up UI/UX quality and frontend architecture  
-▸ Exploring real-time systems and interactive experiences  
-▸ Building things with that alive, responsive feel  
+▸ Building reliable CI/CD pipelines with quality gates that actually block  
+▸ Running workloads on Kubernetes, from local kind clusters to real ones  
+▸ Observability first: metrics, dashboards and alerts for everything shipped  
+▸ Self-hosting and benchmarking AI models on our own infrastructure  
 
 ---
 
